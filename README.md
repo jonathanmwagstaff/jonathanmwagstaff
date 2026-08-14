@@ -11,4 +11,8 @@ I build practical AI, interaction, and advanced-fabrication prototypes.
 
 **[Ditch Your TV Remote](https://drive.google.com/file/d/1thvM3a6NS-fwlF9z9y6-qYLL01iuDoFT/view?usp=drive_link)** — Hands-free TV control through voice and gestures. I set up and trained the **Gesture Classifier**, a custom gesture-recognition system. [Watch the Gesture Classifier demo →](https://drive.google.com/file/d/1thvM3a6NS-fwlF9z9y6-qYLL01iuDoFT/view?usp=drive_link)
 
+<a href="https://drive.google.com/file/d/1thvM3a6NS-fwlF9z9y6-qYLL01iuDoFT/view?usp=drive_link">
+  <img src="assets/gesture-classifier-demo.png" alt="Gesture Classifier recognizing a thumbs-up Play command" width="720" />
+</a>
+
 _More projects coming soon._

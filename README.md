@@ -4,6 +4,8 @@
 
 ## Hackathon wins
 
+Both were team efforts; the notes below highlight my key contributions.
+
 🏆 **1st Place, HALDA Bounty HITLAB World Cup: Innovation Hackathon — July 2026**
 
 **[Halda](https://github.com/jonathanmwagstaff/HaldaHackathon)** — AI college guide that makes college admissions more transparent and approachable. I built its acceptance-committee simulator, helping students see how an application may be evaluated, as well as the community and Connect experience.

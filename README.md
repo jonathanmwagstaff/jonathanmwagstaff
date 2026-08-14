@@ -18,4 +18,12 @@ Both were team efforts; the notes below highlight my key contributions.
   <img src="assets/gesture-classifier-demo.png" alt="Gesture Classifier recognizing a thumbs-up Play command" width="720" />
 </a>
 
+## Other projects
+
+**[GOED](https://github.com/jonathanmwagstaff/HackathonGOED)** — An interactive explorer for Utah's innovation ecosystem. Rather than a conventional geographic map, I designed it as a filterable mind map that makes company hubs and relationships easier to explore by location, sector, headcount, and stage.
+
+<a href="https://github.com/jonathanmwagstaff/HackathonGOED">
+  <img src="assets/goed-interactive-mind-map.png" alt="GOED interactive mind map of Utah company hubs" width="720" />
+</a>
+
 _More projects coming soon._

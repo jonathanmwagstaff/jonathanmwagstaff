@@ -2,6 +2,12 @@
 
 [LinkedIn](https://www.linkedin.com/in/wagstaffjonathan/)
 
+## About
+
+I am a contrarian at heart who strives to build unique solutions. As a solo entrepreneur, I am reinventing 3D printing through Martlet3D, drawing on my background in Electrical Engineering and Advanced Manufacturing.
+
+I also love frequenting hackathons to share creative approaches, meet other builders, and keep learning. You can often find me at Utah County's **Just Build** group.
+
 ## Hackathon wins
 
 Both were team efforts; the notes below highlight my key contributions.

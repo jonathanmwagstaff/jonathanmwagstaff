@@ -10,6 +10,13 @@ Both were team efforts; the notes below highlight my key contributions.
 
 **[Halda](https://github.com/jonathanmwagstaff/HaldaHackathon/blob/docs/halda-readme/README.md)** — AI college guide that makes college admissions more transparent and approachable. I built its acceptance-committee simulator, helping students see how an application may be evaluated, as well as the community and Connect experience.
 
+<a href="https://github.com/jonathanmwagstaff/HaldaHackathon/blob/docs/halda-readme/README.md">
+  <img src="assets/halda-admissions-simulator.png" alt="HALDA simulated admissions evaluation for Marcus Johnson" width="350" />
+</a>
+<a href="https://github.com/jonathanmwagstaff/HaldaHackathon/blob/docs/halda-readme/README.md">
+  <img src="assets/halda-school-evaluation.png" alt="HALDA explanation of how Boise State evaluates applicants" width="350" />
+</a>
+
 🏆 **Most Multimodal — Utah Tech Week Just Build Hackathon — Jan 2026**
 
 **[Ditch Your TV Remote](https://drive.google.com/file/d/1thvM3a6NS-fwlF9z9y6-qYLL01iuDoFT/view?usp=drive_link)** — Hands-free TV control through voice and gestures. I set up and trained the **Gesture Classifier**, a custom gesture-recognition system. [Watch the Gesture Classifier demo →](https://drive.google.com/file/d/1thvM3a6NS-fwlF9z9y6-qYLL01iuDoFT/view?usp=drive_link)

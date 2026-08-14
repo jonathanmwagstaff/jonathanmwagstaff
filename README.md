@@ -43,8 +43,12 @@ _More projects coming soon._
 
 ## Day job — Martlet3D
 
-I work on **[Martlet3D](https://martlet3d.com)**, a software alternative to conventional 3D-print slicing. Instead of treating every model as a stack of flat layers and relying on breakaway supports, we are developing new toolpaths that make difficult overhangs printable with smoother surfaces and less support material.
+I am the solo founder of **[Martlet3D](https://martlet3d.com)**, a software alternative to conventional 3D-print slicing. Instead of treating every model as a stack of flat layers and relying on breakaway supports, I am developing new toolpaths that make difficult overhangs printable with smoother surfaces and less support material.
 
 [Watch the overview video →](https://www.youtube.com/watch?v=aoUnvP_QV7g) · [Join the beta-software mailing list →](https://docs.google.com/forms/d/e/1FAIpQLSeV77oK-KVBiLZU7xFQWJrQk3N3qGREzHL8F-yRtl9s-7Gw8w/viewform?usp=dialog)
+
+<a href="https://www.youtube.com/watch?v=aoUnvP_QV7g">
+  <img src="assets/martlet3d-info-thumbnail.jpg" alt="Martlet3D Info video thumbnail" width="480" />
+</a>
 
 _The Martlet3D website is currently being rebuilt and is not live yet._

@@ -26,4 +26,10 @@ Both were team efforts; the notes below highlight my key contributions.
   <img src="assets/goed-interactive-mind-map.png" alt="GOED interactive mind map of Utah company hubs" width="720" />
 </a>
 
+**[Catan Hybrid Board](https://github.com/jonathanmwagstaff/catan-hybrid-board)** — I got tired of setting up CATAN boards, so I made a live board companion for playing with the real physical pieces. It is a hybrid augmented-reality experience: the screen handles setup, board generation, number tokens, dice, and game coordination, while the tactile, social heart of CATAN stays on the table—where players still hold, trade, and play with the pieces.
+
+<a href="https://github.com/jonathanmwagstaff/catan-hybrid-board">
+  <img src="assets/catan-hybrid-board.png" alt="Catan Hybrid Board with a generated board, dice, player controls, and physical-play companion features" width="720" />
+</a>
+
 _More projects coming soon._

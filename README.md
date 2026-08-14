@@ -40,3 +40,11 @@ Both were team efforts; the notes below highlight my key contributions.
 </a>
 
 _More projects coming soon._
+
+## Day job — Martlet3D
+
+I work on **[Martlet3D](https://martlet3d.com)**, a software alternative to conventional 3D-print slicing. Instead of treating every model as a stack of flat layers and relying on breakaway supports, we are developing COILER software to generate toolpaths that make difficult overhangs printable with smoother surfaces and less support material.
+
+[Watch the overview video →](https://www.youtube.com/watch?v=aoUnvP_QV7g) · [Join the beta-software mailing list →](https://docs.google.com/forms/d/e/1FAIpQLSeV77oK-KVBiLZU7xFQWJrQk3N3qGREzHL8F-yRtl9s-7Gw8w/viewform?usp=dialog)
+
+_The Martlet3D website is currently being rebuilt and is not live yet._

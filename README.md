@@ -10,7 +10,7 @@ I also love frequenting hackathons to share creative approaches, meet other buil
 
 ## Day job — Martlet3D
 
-I am the solo founder of **[Martlet3D](https://martlet3d.com)**, a software alternative to conventional 3D-print slicing. Instead of treating every model as a stack of flat layers and relying on breakaway supports, I am developing new toolpaths that make difficult overhangs printable with smoother surfaces and less support material.
+I am the founder of **[Martlet3D](https://martlet3d.com)**, a software alternative to conventional 3D-print slicing. Instead of treating every model as a stack of flat layers and relying on breakaway supports, I am developing new toolpaths that make difficult overhangs printable with smoother surfaces and less support material.
 
 [Watch the overview video →](https://www.youtube.com/watch?v=aoUnvP_QV7g) · [Join the beta-software mailing list →](https://docs.google.com/forms/d/e/1FAIpQLSeV77oK-KVBiLZU7xFQWJrQk3N3qGREzHL8F-yRtl9s-7Gw8w/viewform?usp=dialog)
 
@@ -42,9 +42,9 @@ These were team efforts; the notes below highlight the projects and my contribut
   <img src="assets/gesture-classifier-demo.png" alt="Gesture Classifier recognizing a thumbs-up Play command" width="400" />
 </a>
 
-🥉 **3rd Place — Utah Builder Day — Aug 14–15, 2026**
+🥉 **3rd Place — Utah Builder Day — Aug 2026**
 
-**[Opportunity Radar](https://github.com/JoshTheMenace/opportunity-radar)** — An AI government-funding analyst that matches startups with federal and Utah funding opportunities. I built **Utah Connections** to help grant seekers find people who have successfully followed similar funding paths—including principal investigators identified in public award records—and Utah navigators, such as government officials and local support contacts who can help them take the next step.
+**[Opportunity Radar](https://github.com/JoshTheMenace/opportunity-radar)** — An AI government-funding analyst that matches startups with federal and Utah funding opportunities. I built **Utah Connections** to help grant seekers find people who have successfully followed similar funding paths including principal investigators identified in public award records and other Utah 'navigators', such as government officials and local support contacts who can help them take the next step.
 
 <a href="https://github.com/JoshTheMenace/opportunity-radar">
   <img src="assets/opportunity-radar-utah-connections.png" alt="Opportunity Radar Utah Connections dashboard showing documented funding recipients and Utah programs" width="400" />

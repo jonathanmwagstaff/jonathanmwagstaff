@@ -6,7 +6,7 @@
 
 I am a contrarian at heart who strives to build unique solutions. As an entrepreneur, I am reinventing 3D printing through Martlet3D, drawing on my background in Electrical Engineering and Advanced Manufacturing.
 
-I also love frequenting hackathons to share creative approaches, meet other builders, and keep learning. You can often find me at Utah County's **Just Build** group.
+I also love frequenting hackathons to share creative approaches, meet other builders, and keep learning. You can often find me at Utah County's **[Just Build](https://join.slack.com/t/justbuilding/shared_invite/zt-49tx455v7-wrvNpfYSbCXHC9UHjTsPgg)** group.
 
 ## Day job — Martlet3D
 
